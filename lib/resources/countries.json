@@ -1,41 +1,41 @@
-[ 
+[
   {
-    "name": "Denmark (Danmark)",
+    "name": "Danmark",
     "iso2": "dk",
     "dialCode": "45",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Finland (Suomi)",
+    "name": "Finland",
     "iso2": "fi",
     "dialCode": "358",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Iceland (Ísland)",
+    "name": "Island",
     "iso2": "is",
     "dialCode": "354",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Norway (Norge)",
+    "name": "Norge",
     "iso2": "no",
     "dialCode": "47",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Spain (España)",
+    "name": "Spania",
     "iso2": "es",
     "dialCode": "34",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Sweden (Sverige)",
+    "name": "Sverige",
     "iso2": "se",
     "dialCode": "46",
     "priority": 0,
